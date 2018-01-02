@@ -44,3 +44,7 @@ address {
 	color: #0f0f0f;
 	margin-bottom: 20px;
 }
+
+.media-heading span {
+	margin-left: 10px;
+}
